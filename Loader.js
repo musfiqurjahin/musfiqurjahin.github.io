@@ -1,1 +1,1 @@
-window.location.href = "../Profile/";
+window.location.href = "https://musfiqurjahin.vercel.app/";
