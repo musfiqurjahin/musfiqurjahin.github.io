@@ -1,1 +1,1 @@
-window.location.href = "https://musfiqur-jahin.web.app";
+window.location.href = "https://musfiqur-jahin.web.app/";
